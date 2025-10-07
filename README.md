@@ -7,6 +7,7 @@
 *Текст и полные данные мигистерской работы размещены по ссылке: https://www.hse.ru/ma/ling/students/diplomas/1055343460*
 
 ## TODO
-* upload main classes
+* ~~upload text-to-sign classes~~
+* upload sign-to-text classes
 * upload preprocessing
 * upload main citations
